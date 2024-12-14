@@ -42,9 +42,9 @@ This project extracts text from an image of a store receipt and converts it into
 
 ## Project Structure
 
-- [main.py](http://_vscodecontentref_/2): The main script that processes the image, extracts text, and converts it to JSON.
-- [requirements.txt](http://_vscodecontentref_/3): The list of required Python packages.
-- [readme.md](http://_vscodecontentref_/4): Project documentation.
+- main.py: The main script that processes the image, extracts text, and converts it to JSON.
+- requirements.txt: The list of required Python packages.
+- readme.md: Project documentation.
 
 ## License
 
